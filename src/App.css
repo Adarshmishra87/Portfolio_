@@ -96,10 +96,11 @@ a {
 } */
 
 .button.primary {
-  color: #ffffff !important;
-  background: #181818 !important;
+  color: #ffffff;
+  background: #181818;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
+
 
 
 /* .button.secondary {
@@ -108,19 +109,16 @@ a {
 } */
 
 .button.secondary {
-  color: #181818 !important;
-  background: #fffdf8 !important;
   border: 1px solid #bcb5a8;
+  background: #fffdf8;
+  color: #171717;
 }
 
-.button.secondary:visited {
-  color: #181818 !important;
-}
 
-.button.secondary:hover {
+/* .button.secondary:hover {
   color: #000000 !important;
   background: #ffffff !important;
-}
+} */
 
 .hero {
   max-width: 1250px;
