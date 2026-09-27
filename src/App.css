@@ -90,36 +90,20 @@ a {
   transform: translateY(-3px);
 }
 
-/* .button.primary {
-  color: white;
-  background: #181818;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-} */
-
 .button.primary {
-  color: #ffffff;
+  color: white;
   background: #181818;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
-
-
-/* .button.secondary {
-  border: 1px solid #bcb5a8;
-  background: #fffdf8;
-} */
 
 .button.secondary {
   border: 1px solid #bcb5a8;
   background: #fffdf8;
-  color: #171717;
 }
 
 
-/* .button.secondary:hover {
-  color: #000000 !important;
-  background: #ffffff !important;
-} */
+
 
 .hero {
   max-width: 1250px;
