@@ -1436,14 +1436,14 @@
 
 import "./App.css";
 
-// function App() {
-//   return (
-//     <div className="app">
 function App() {
   return (
-    <div style={{ color: "white", background: "black", minHeight: "100vh", padding: "40px" }}>
-      <h1>Portfolio is working!</h1>
-      <p>React + GitHub Pages is successfully running.</p>
+    <div className="app">
+// function App() {
+//   return (
+//     <div style={{ color: "white", background: "black", minHeight: "100vh", padding: "40px" }}>
+//       <h1>Portfolio is working!</h1>
+//       <p>React + GitHub Pages is successfully running.</p>
 
 <nav className="navbar">
         <a href="#home" className="logo">
